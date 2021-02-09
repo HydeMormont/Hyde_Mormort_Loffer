@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown语法简介
+title: Lab2 SQL Intro
 date: 2021-02-09
 Author: Hyde
 tags: [sample, markdown]
