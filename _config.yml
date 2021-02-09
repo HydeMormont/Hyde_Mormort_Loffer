@@ -78,9 +78,10 @@ footer-text: Copyright (c) 2019 来自中世界
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
   clientID: 21cc929f376798060afc
-  clientSecret: ca66da04ac61ebf5cd113ecae0fb66ef8960a965
+  clientSecret: b448d2502fe87f7e906b2a44b71cdeabe2e4e4ba
   repo: Loffer
   owner: HydeMormont
+  
 # 输入Google Analytics web tracking code
 google_analytics:
 
