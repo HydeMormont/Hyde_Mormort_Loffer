@@ -81,7 +81,6 @@ gitalk:
   clientSecret: ca66da04ac61ebf5cd113ecae0fb66ef8960a965
   repo: Loffer
   owner: HydeMormont
-
 # 输入Google Analytics web tracking code
 google_analytics:
 
