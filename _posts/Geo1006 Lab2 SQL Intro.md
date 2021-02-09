@@ -1,3 +1,13 @@
+---
+layout: post
+title: Markdown语法简介
+date: 2021-02-09
+Author: Hyde
+tags: [sample, markdown]
+comments: true
+toc: true
+---
+
 # Geo1006 Lab2: SQL Intro
 
 > First name: Haoyang
